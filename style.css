@@ -6,6 +6,9 @@ body{
 h1{
     color: aqua;
 }
+h1:hover{
+    color:red;
+}
 p:hover{
     color: blue;
 }
